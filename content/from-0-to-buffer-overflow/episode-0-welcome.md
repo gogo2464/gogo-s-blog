@@ -15,3 +15,5 @@ In this you will learn from almost no prerequies. Except programming in [C from 
 This is for educational purpose only. The plan is to get a job on cybersecurity
 
 To get started, first install linux. All the code has been tested on [debian 11 from the official manual](https://www.debian.org/releases/stable/amd64/ch04.en.html)
+
+If you have any suggestion, fell free to ask me at gogo246475@gmail.com .
