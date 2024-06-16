@@ -1,6 +1,7 @@
 baseURL = "https://gogo2464.github.io/gogo-s-blog/"
 languageCode = "en-us"
 title = "Gogo's Blog"
-theme = "ananke"
+theme = "github-style"
 publishDir = "./docs"
 staticDir = ['static']
+pin = true
