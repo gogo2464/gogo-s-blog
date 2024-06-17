@@ -1,7 +1,9 @@
-baseURL = "https://gogo2464.github.io/gogo-s-blog/"
+baseURL = "https://gogo2464.github.io/gogo-s-blog"
 languageCode = "en-us"
 title = "Gogo's Blog"
 theme = "github-style"
 publishDir = "./docs"
 staticDir = ['static']
-pin = true
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]

@@ -1,7 +1,8 @@
 ## Blog of Gogo
 
-I wrote a blog with a set of article `from 0 to buffer overflow` to teach exploitation to people. The blog is reachable at [this address](https://gogo2464.github.io/gogo-s-blog/).
+I wrote a blog with a set of article `from 0 to buffer overflow` to teach exploitation to people. The blog is reachable at [this address](https://gogo2464.github.io/gogo-s-blog/post/).
 
+The goal is to learn reverse engineering and binary exploitation only doing real projects instead of CTFs.
 
 ## Contributing
 
